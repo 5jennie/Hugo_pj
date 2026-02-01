@@ -16,7 +16,7 @@ body {
 .main-cont {
   display: flex;
   padding: 10vh 35vh;
-  background: url(../../02.구현디자인/05.스킨/info_bg.png) no-repeat
+  background: url(../../02.design/05.스킨/info_bg.png) no-repeat
     center/cover;
 }
 /* 2. 메인영역 */
